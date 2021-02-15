@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="PTMKtest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PTMKtest_jar</output-path>
+    <root id="archive" name="PTMKtest.jar">
+      <element id="module-output" name="PTMKtest" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/mysql-connector-java-8.0.22.jar" path-in-jar="/" />
+      <element id="library" level="project" name="mysql-connector-java-8.0.22" />
+    </root>
+  </artifact>
+</component>
